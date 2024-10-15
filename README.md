@@ -33,10 +33,6 @@
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto é de código aberto e disponível sob a [Licença MIT](LICENSE).
-
 ## Contato
 
 Para mais informações, você pode entrar em contato:
